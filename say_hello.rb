@@ -2,4 +2,4 @@
 def say_hello (name, programmer)
   puts "Hello, #{name}!"
 end
-programmer = "Ruby Programmer"
+say_hello "Ruby Programmer"
